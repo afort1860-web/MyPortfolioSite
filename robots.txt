@@ -1,0 +1,6 @@
+# Разрешить индексацию всех страниц
+User-agent: *
+Allow: /
+
+# Указать путь к sitemap
+Sitemap: https://afort1860-web.github.io/MyPortfolioSite/sitemap.xml

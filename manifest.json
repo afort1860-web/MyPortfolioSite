@@ -1,0 +1,8 @@
+{
+  "name": "Мопсы и Linux",
+  "short_name": "Мопсы Linux",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4B0082"
+}
